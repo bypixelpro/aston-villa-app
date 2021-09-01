@@ -1,6 +1,6 @@
-# AstonVillaApp
+# Ejemplo AstonVillaApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+Proyecto de ejemplo para usar en Docker.
 
 ## Development server
 
